@@ -7,7 +7,5 @@ public class Demo1 {
 		System.out.println("Hello");
 		System.out.println("Hello");
 	}
-public  Demo1() {
-	System.out.println("great day");
-}
+
 }
