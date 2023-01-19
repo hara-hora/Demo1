@@ -6,6 +6,6 @@ public class Demo1 {
 		System.out.println("Introduction to GitHub");
 	}
 	demo1(){
-		//out put
+		System.out.println("GitHub");
 	}
 }
